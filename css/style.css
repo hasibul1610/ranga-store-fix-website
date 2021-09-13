@@ -6,6 +6,8 @@ body {
 header h1{
   text-align: center;
   margin-top: 40px;
+  font-weight: bolder;
+  font-size: 45px;
 }
 #shop-name{
   color: tomato;
@@ -61,6 +63,9 @@ header h1{
   width: 150px;
   height: 150px;
 }
+.ratings{
+  color: #e44c05;
+}
 .cart {
   width: 350px;
   /* border: 1px solid green; */
@@ -69,6 +74,7 @@ header h1{
   border-radius: 5px;
   margin-right: 30px;
   position: fixed;
+  background-color: #2fffea;
 }
 .cart-main {
   padding-right: 30px;
